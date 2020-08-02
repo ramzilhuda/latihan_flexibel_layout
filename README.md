@@ -1,4 +1,11 @@
 # latihan_flexibel_layout
+Latihan cara membuat animated container yang terdiri dari : 
+ - 3 Kolom 
+   Dengan perbandingan flexi 1 : 2 : 1
+ - 1 baris
+   Dengan perbandingan flexi 1 : 1 : 1
+ 
+ Dengan memiliki warna yang berbeda-beda
 Tampilan App :
 ![Screenshot_2020-08-02-07-07-27-51_581b10a7e652d149388481822306abe4 1](https://user-images.githubusercontent.com/60292040/89113455-9602b280-d49b-11ea-922a-0c48a726d086.png)
 
